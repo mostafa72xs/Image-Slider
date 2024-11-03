@@ -76,7 +76,7 @@ img{
     .btns{
         display: flex;
         justify-content: center;
-        margin-top:70%;
+        top:70%;
         gap:50%;
     }
 }
